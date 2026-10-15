@@ -18,7 +18,7 @@ Site estático, sem build. Abra `index.html` no navegador para ver.
 3. YouTube → https://youtube.com/@virginiaarruda
 4. Loja Virgínia Arruda → https://virginiaarruda.com/
 5. Instagram da loja → https://instagram.com/virginiaarrudaloja
-6. Beauty Concept (salão) → FORA DA PÁGINA desde 15/10: o perfil @virginiaarrudabeautyconcept não existe mais no Instagram. Voltar quando a equipe confirmar o @ atual.
+6. Beauty Concept (salão) → https://www.instagram.com/virginiaarruda.concept/ (perfil "VA CONCEPT"; o antigo @virginiaarrudabeautyconcept não existe mais)
 7. WhatsApp atendimento → https://wa.me/5511995451408
 8. Convites & parcerias → https://wa.me/5511910611408 (a confirmar com a equipe)
 - Página antiga, para referência: https://enovia.bio/virginiaarruda (tinha também um "Pix QR Code", deixado de fora).
