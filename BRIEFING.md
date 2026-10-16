@@ -21,7 +21,8 @@ Site estático, sem build. Abra `index.html` no navegador para ver.
 6. Beauty Concept (salão) → https://www.instagram.com/virginiaarruda.concept/ (perfil "VA CONCEPT"; o antigo @virginiaarrudabeautyconcept não existe mais)
 7. WhatsApp atendimento → https://wa.me/5511995451408
 8. Convites & parcerias → https://wa.me/5511910611408 (a confirmar com a equipe)
-- Página antiga, para referência: https://enovia.bio/virginiaarruda (tinha também um "Pix QR Code", deixado de fora).
+9. Pix QR Code → https://enovia.bio/pix/71b9eaf9-9132-4c11-8670-6a778111253b (página da Enovia onde a pessoa digita o valor e gera o QR; depende da conta Enovia continuar ativa)
+- Página antiga, para referência: https://enovia.bio/virginiaarruda
 
 ## Dados do curso (página de vendas)
 - Checkout Hubla (todos os botões de compra): https://pay.hub.la/6Vk9gg0RhPjSxFa3tCei
