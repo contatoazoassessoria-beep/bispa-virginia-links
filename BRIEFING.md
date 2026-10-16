@@ -19,8 +19,8 @@ Site estático, sem build. Abra `index.html` no navegador para ver.
 4. Loja Virgínia Arruda → https://virginiaarruda.com/
 5. Instagram da loja → https://instagram.com/virginiaarrudaloja
 6. Beauty Concept (salão) → https://www.instagram.com/virginiaarruda.concept/ (perfil "VA CONCEPT"; o antigo @virginiaarrudabeautyconcept não existe mais)
-7. WhatsApp atendimento → https://wa.me/5511995451408
-8. Convites & parcerias → https://wa.me/5511910611408 (a confirmar com a equipe)
+7. WhatsApp atendimento → https://wa.me/5511910611408
+8. Convites & parcerias → https://wa.me/5511910611408 (confirmado pelo Cristian em 15/10/2026, mesmo número do atendimento)
 9. Pix QR Code → https://enovia.bio/pix/71b9eaf9-9132-4c11-8670-6a778111253b (página da Enovia onde a pessoa digita o valor e gera o QR; depende da conta Enovia continuar ativa)
 - Página antiga, para referência: https://enovia.bio/virginiaarruda
 
